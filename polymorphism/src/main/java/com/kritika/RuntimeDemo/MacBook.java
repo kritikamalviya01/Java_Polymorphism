@@ -1,6 +1,6 @@
 package com.kritika.RuntimeDemo;
 
-public class MacBook {
+public class MacBook implements AppleLaptop {
 
     public void start(){
         System.out.println("Inside Macbook start");
